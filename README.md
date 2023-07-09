@@ -8,9 +8,9 @@
 
 ### About me 
 
- 🌼 3rd year Computer Science (BS) student at UCSC<br/>
- 🌼 Currently looking for a summer 24' internship<br/>
- 🌼 Interests: Photography, Traveling, Video Games<br/>
+ 🐟 3rd year Computer Science (BS) student at UCSC<br/>
+ 🐠 Currently looking for a summer 24' internship<br/>
+ 🐡 Interests: Photography, Traveling, Video Games<br/>
 
 
 
