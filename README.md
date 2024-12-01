@@ -8,9 +8,9 @@
 
 ### About me 
 
- 🐟 3rd year Computer Science (BS) student at UCSC<br/>
+ 🐟 4rd year Computer Science (BS) student at UCSC<br/>
  🐠 Currently looking for n/a<br/>
- 🐡 Interests: Photography, Traveling, Video Games<br/>
+ 🐡 Interests: Traveling, Pokémon, Gunpla<br/>
 
 
 
